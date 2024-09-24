@@ -1,8 +1,3 @@
-# ec2-access-s3-tf
-
-
-# EC2 and S3 Access Setup
-
 ## Overview
 This project sets up an Amazon EC2 instance with an associated IAM role that allows access to an S3 bucket. The infrastructure is managed using Terraform, which simplifies the process of provisioning and managing cloud resources.
 
@@ -19,8 +14,8 @@ This project sets up an Amazon EC2 instance with an associated IAM role that all
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/AHMEDBEL529/ec2-access-s3-tf.git
+   cd ec2-access-s3-tf/
    ```
 
 2. **Initialize Terraform**
