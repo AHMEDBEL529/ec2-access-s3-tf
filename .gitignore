@@ -1,6 +1,6 @@
 # Ignore everything
 *
 
-# Don't ignore these files and directories
-!.gitignore
-!.tf
+# Don't ignore .json and .tf files
+!*.json
+!*.tf
